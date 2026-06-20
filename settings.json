@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "GreekMafiaOFFICIAL.aternos.me", 
-    "port": 31537,   
+    "ip": "the_SilentDragon.aternos.me", 
+    "port": 52344,   
     "version": "1.20.1"   
   },
   
@@ -37,7 +37,7 @@
       "messages": [
         "sigma skibidi rizzler",
         "hat jemand eisen für mich? (ignorieren)",
-        "I'm sexy and I know it :)"
+        "I'm made by Sas :)"
       ]
     },
 
